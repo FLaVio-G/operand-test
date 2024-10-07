@@ -1,39 +1,22 @@
-# operand-test
+# Documentação da entrega do projeto
 
-This template should help get you started developing with Vue 3 in Vite.
+Informações sobre o projeto.
+link do hosting google: https://test-operand.web.app/
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# Como executar o projeto
 
-## Type Support for `.vue` Imports in TS
+Clone o repositório:
+git clone <URL-do-repositório>
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Acesse a pasta do projeto:
+cd <nome-da-pasta>
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+Instale as dependências:
 npm install
-```
 
-### Compile and Hot-Reload for Development
+Inicie o projeto:
+npm start
 
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Acesse a aplicação no navegador através de:
+http://localhost:5173/
